@@ -1,0 +1,3 @@
+[submodule "flutter_boilerplate"]
+	path = flutter_boilerplate
+	url = git@github.com:JitendraSachwani/flutter_boilerplate.git
